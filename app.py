@@ -184,3 +184,5 @@ This statistical disparity indicates that any machine learning model trained nai
         st.markdown("### 📋 Executive Bias Report")
         st.info(mock_report)
 st.markdown('</div>', unsafe_allow_html=True)
+
+# Testing collaboration feature
