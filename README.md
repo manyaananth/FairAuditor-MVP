@@ -1,6 +1,6 @@
 # 🚨 PROTOTYPE NOTE FOR JUDGES
 
-**The app is currently configured to run locally on localhost. Please view our 3-minute Demo Video to see the fully functional, live walkthrough of the UI, AI Integration, and Data Engine.**
+#**The app is currently configured to run locally on localhost. Please view our 3-minute Demo Video to see the fully functional, live walkthrough of the UI, AI Integration, and Data Engine.**
 
 
 
